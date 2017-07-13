@@ -1,2 +1,2 @@
 # SQL
-SQL : various queries, and create db statement examples 
+SQL : entity relationship diagram for a db, queries, and create statement examples 
